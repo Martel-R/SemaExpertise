@@ -6,13 +6,13 @@ Bacharel em Engenharia da Computação
 
 Academicos:
 
-	* **Enrique Rodrigues Martel** - *Scrum Master* - [Martel-r](https://github.com/Martel-R);
+* **Enrique Rodrigues Martel** - *Scrum Master* - [Martel-r](https://github.com/Martel-R);
 
-	* **José Eduardo Sousa Coutinho** - *Scrum* - [DuardoCoutinho](https://github.com/DuardoCoutinho);
+* **José Eduardo Sousa Coutinho** - *Scrum* - [DuardoCoutinho](https://github.com/DuardoCoutinho);
 
-	* **Lucas Almeida de Abreu** - *Scrum* - [Lucas3800](https://github.com/Lucas3800);
+* **Lucas Almeida de Abreu** - *Scrum* - [Lucas3800](https://github.com/Lucas3800);
 
-	* **Thayse Soares Vasconcelos** - *Scrum* [thaysevscncls](https://github.com/thaysevscncls).
+* **Thayse Soares Vasconcelos** - *Scrum* [thaysevscncls](https://github.com/thaysevscncls).
 
 ##Descrição
 
