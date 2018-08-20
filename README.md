@@ -1,5 +1,6 @@
-# Semaforo Expertise
-Faculdade de Tecnologia do Amapá - META
+Semaforo Expertise
+====================
+Faculdade de Tecnologia do Amapá - META\n
 Bacharel em Engenharia da Computação
 Academicos:
 	- Enrique Rodrigues Martel;
