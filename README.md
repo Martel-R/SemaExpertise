@@ -1,7 +1,8 @@
 #Semaforo Expertise
-
 Faculdade de Tecnologia do Amapá - META
+
 Bacharel em Engenharia da Computação
+
 Academicos:
 	* **Enrique Rodrigues Martel** - *Scrum Master* - [Martel-r](https://github.com/Martel-R);
 	* **José Eduardo Sousa Coutinho** - *Scrum* - [DuardoCoutinho](https://github.com/DuardoCoutinho);
