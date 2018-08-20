@@ -1,5 +1,11 @@
 # Semaforo Expertise
-
+Faculdade de Tecnologia do Amapá - META
+Bacharel em Engenharia da Computação
+Academicos:
+	- Enrique Rodrigues Martel;
+	- José Eduardo Sousa Coutinho;
+	- Lucas Almeida de Abreu;
+	- Thayse Soares Vasconcelos.
 Descrição
 ===============
 Imagine um semáforo inteligente que atua recalculando o periodo de tempo em que os estagio do sinal são acionados, podendo melhorar o tráfego de uma cidade. 
